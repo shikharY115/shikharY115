@@ -88,7 +88,7 @@ Deep learning pipeline for classifying and segmenting brain tumors from MRI scan
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikharY115&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharY115&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shikharY115&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
