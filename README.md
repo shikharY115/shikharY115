@@ -52,7 +52,7 @@ Full-stack health and fitness platform with an AI-powered meal-logging assistant
 
 `React` `Node.js` `Express.js` `MongoDB` `Google Gemini`
 
-### 🏠 [Online Hospitality Marketplace](https://github.com/shikharY115/online-hospitality-marketplace)
+### 🏠 [Online Hospitality Marketplace](https://github.com/shikharY115/Online_Hospitality_Marketplace)
 Full-stack rental marketplace for listing and booking properties in real time.
 - Architected and deployed a rental platform supporting multiple property listings with secure image uploads
 - Built authentication and authorization with Passport.js (local strategy) and MongoDB-backed sessions, supporting 1,000+ users
