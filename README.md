@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- Pursuing a B.Tech in Computer Science and Engineering at Graphic Era Deemed to be University(AI & ML), Dehradun (2023 – 2027)
+- Pursuing a B.Tech in Computer Science and Engineering (AI & ML) at Graphic Era Deemed to be University, Dehradun (2023 – 2027)
 - Full-stack developer experienced in building REST APIs and applications with React, Node.js, Express, and MongoDB
 - Also build applied machine learning projects — generative models (GANs), medical image segmentation, and NLP-based text classification
 - Enjoy working across the stack, from designing backend APIs and data models to training and deploying ML pipelines
